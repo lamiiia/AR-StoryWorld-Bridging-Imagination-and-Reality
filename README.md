@@ -40,6 +40,8 @@ The core of this AR experience relies on precise mathematical transformations to
 ### The Mathematics of Camera Pose
 To correctly position 3D objects, the camera pose relative to the object's coordinate system must be retrieved. We find the correspondence between 3D object points $M = [X, Y, Z]^T$ and their 2D projections $m = [x, y]^T$ on the image plane.
 
+---
+
 ## 🔮 Future Improvements
 We aim to continuously evolve AR StoryWorld to provide a richer educational tool:
 * **🕹️ Interactive Games:** Integrating mini-games and puzzles within the AR experience to enhance learning playfully.
