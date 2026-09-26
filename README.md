@@ -8,6 +8,8 @@ Through image tracking technology, pointing an Android device at specific images
 
 This project was developed as part of the **Robot Kinematics and Dynamics** course.
 
+<img width="757" height="772" alt="image" src="https://github.com/user-attachments/assets/c6bf8f49-8fe3-434f-846d-7c7c72c7b927" />
+
 
 ---
 
