@@ -6,11 +6,13 @@
 
 Through image tracking technology, pointing an Android device at specific images within the book unlocks a vibrant world of digital content. Animated characters and immersive sound effects bring the narrative to life, stimulating imagination and fostering a deeper, more engaging connection to the story.
 
+
+
+<p align="center">
+  <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/c6bf8f49-8fe3-434f-846d-7c7c72c7b927" />
+</p>
+
 This project was developed as part of the **Robot Kinematics and Dynamics** course.
-
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/c6bf8f49-8fe3-434f-846d-7c7c72c7b927" />
-
-
 ---
 
 ## 🚀 Features
