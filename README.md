@@ -1,7 +1,7 @@
 # AR-StoryWorld-Bridging-Imagination-and-Reality
 
 
-##📌 Overview
+## 📌 Overview
 **AR StoryWorld** is an innovative augmented reality (AR) project that combines the timeless charm of traditional storybooks with the captivating allure of modern technology. By leveraging Unity's AR capabilities, this project transforms static pages into interactive, immersive experiences for children. 
 
 Through image tracking technology, pointing an Android device at specific images within the book unlocks a vibrant world of digital content. Animated characters and immersive sound effects bring the narrative to life, stimulating imagination and fostering a deeper, more engaging connection to the story.
