@@ -1,7 +1,7 @@
 # AR-StoryWorld-Bridging-Imagination-and-Reality
 
 
-📌 Overview
+##📌 Overview
 **AR StoryWorld** is an innovative augmented reality (AR) project that combines the timeless charm of traditional storybooks with the captivating allure of modern technology. By leveraging Unity's AR capabilities, this project transforms static pages into interactive, immersive experiences for children. 
 
 Through image tracking technology, pointing an Android device at specific images within the book unlocks a vibrant world of digital content. Animated characters and immersive sound effects bring the narrative to life, stimulating imagination and fostering a deeper, more engaging connection to the story.
@@ -38,3 +38,16 @@ The core of this AR experience relies on precise mathematical transformations to
 
 ### The Mathematics of Camera Pose
 To correctly position 3D objects, the camera pose relative to the object's coordinate system must be retrieved. We find the correspondence between 3D object points $M = [X, Y, Z]^T$ and their 2D projections $m = [x, y]^T$ on the image plane.
+
+## 🔮 Future Improvements
+We aim to continuously evolve AR StoryWorld to provide a richer educational tool:
+* **🕹️ Interactive Games:** Integrating mini-games and puzzles within the AR experience to enhance learning playfully.
+* **🗣️ Text-to-Speech Integration:** Allowing children to listen to the story being read aloud, catering to various learning styles.
+* **🔦 Highlighting Text:** Syncing the narration with visual text highlights to reinforce word recognition.
+* **📖 Interactive Word Definitions:** Enabling children to tap individual words to hear pronunciation and definitions, promoting vocabulary growth.
+
+---
+
+## 👤 Devolper
+**Lamia Faisal Alhelayl**
+* **Course:** Robot Kinematics and Dynamics
