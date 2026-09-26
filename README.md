@@ -8,7 +8,6 @@ Through image tracking technology, pointing an Android device at specific images
 
 This project was developed as part of the **Robot Kinematics and Dynamics** course.
 
-![Uploading POV_1.gif…]()
 
 ---
 
